@@ -20,7 +20,7 @@ VideoController.prototype.loadVideos = function (container, scrollHeight) {
     //        'd': { path :'stubs/d.webm' },
       //      'blink': {path: 'stubs/blink.webm'},
         //    'e': {path: 'stubs/e.webm'} 
-            'facebook' : {paths: ['fun/facebook.mp4']}
+            'facebook' : {paths: ['fun/facebook.mp4', 'fun/facebook.webm']}
         },
         //enter: {path: 'stubs/hat.webm', duration: 6.76 }
     }
